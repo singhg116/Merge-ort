@@ -1,5 +1,4 @@
-/*						Guriqbal Singh
-						Program #7
+/*						
 						April 20, 2017
 			This program will implement the merge-sort algorithm  
 */		
